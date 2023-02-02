@@ -1,5 +1,7 @@
 import PIL.Image
 
+# You need to install the python module PIL
+
 ASCII_CHARS = ["@", "#", "$", "%", "?", "*", "+", ";", ":", ",", "."]
 
 def main():
